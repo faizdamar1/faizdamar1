@@ -1,7 +1,7 @@
-# Hi 👋 I'm Faiz D. Hernanda
+# Hi I'm Faiz D. Hernanda
 
-💻 I love coding  
-🎌 Anime enthusiast  
+I love coding  
+Anime enthusiast  
 
 ## Tech Stack
 - PHP (Laravel)
@@ -10,4 +10,4 @@
 - MySQL / PostgreSQL
 - Docker & Git
 
-Happy coding 🚀
+Happy coding 
